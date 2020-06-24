@@ -9,7 +9,7 @@
 import UIKit
 
 class CompleteToDoViewController: UITableViewController {
-
+    var name = ""
     override func viewDidLoad() {
         super.viewDidLoad()
 
